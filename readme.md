@@ -1,7 +1,6 @@
 # Chat Moderate 💬🛡️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-high)](http://makeapullrequest.com)
+
 
 **Chat Moderate** is an automated, real-time message moderation system designed to keep chat applications safe, respectful, and free of toxic behavior. It dynamically intercepts user-generated content to flag, redact, or block harmful text before it reaches other users.
 
